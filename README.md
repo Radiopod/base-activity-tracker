@@ -2,8 +2,9 @@
 
 ![Made for Base](https://img.shields.io/badge/Made%20for-Base-blue?logo=coinbase)
 <p align="left">
-  <img src="https://imgur.com/0ZQZQ0C.png" width="120">
+  <img src="https://base.org/_next/static/media/base-logo-blue.2c8a3b8e.svg" width="120">
 </p>
+
 This repository contains a simple script and documentation to help users analyze their onchain activity on the Base network.
 
 ## Features
