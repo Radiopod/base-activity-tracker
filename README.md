@@ -1,9 +1,9 @@
 # Base Activity Tracker
+
 ![Made for Base](https://img.shields.io/badge/Made%20for-Base-blue?logo=coinbase)
 <p align="left">
-  <img src="https://raw.githubusercontent.com/base-org/brand-kit/main/logo/base-logo-primary.png" width="120">
+  <img src="https://imgur.com/0ZQZQ0C.png" width="120">
 </p>
-
 This repository contains a simple script and documentation to help users analyze their onchain activity on the Base network.
 
 ## Features
